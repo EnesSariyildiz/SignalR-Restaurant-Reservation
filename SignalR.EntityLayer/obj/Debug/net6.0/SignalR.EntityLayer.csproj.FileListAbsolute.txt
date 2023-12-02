@@ -1,0 +1,12 @@
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.deps.json
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.dll
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\bin\Debug\net6.0\SignalR.EntityLayer.pdb
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.AssemblyInfoInputs.cache
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.AssemblyInfo.cs
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.sourcelink.json
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.dll
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\refint\SignalR.EntityLayer.dll
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\SignalR.EntityLayer.pdb
+D:\Dev\Software\Projects\SignalRProject\SignalR.EntityLayer\obj\Debug\net6.0\ref\SignalR.EntityLayer.dll
